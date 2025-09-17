@@ -1,0 +1,16 @@
+catboost==1.2.7
+lifelines==0.30.0
+lightgbm==4.6.0
+matplotlib==3.10.1
+numba==0.61.0
+numpy==1.26.4
+optuna==4.1.0
+pandas==2.2.3
+pytorch_lightning==2.4.0
+pytorch_tabular==1.1.1
+rtdl_num_embeddings==0.0.11
+scikit_learn==1.6.1
+setuptools==75.1.0
+torch==2.5.1
+torch_geometric==2.6.1
+xgboost==2.1.4
