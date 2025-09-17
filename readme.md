@@ -1,5 +1,4 @@
-Below you can find a outline of how to reproduce my solution for the [CIBMTR - Equity in post-HCT Survival Predictions](https://www.kaggle.com/competitions/equity-post-HCT-survival-predictions/overview) competition.  
-If you run into any trouble with the setup/code or have any questions please contact me at xq_yu@sina.cn
+Below you can find a outline of how to reproduce my solution for the [CIBMTR - Equity in post-HCT Survival Predictions](https://www.kaggle.com/competitions/equity-post-HCT-survival-predictions/overview) competition. 
 
 # ARCHIVE CONTENTS
 |file|usage|
